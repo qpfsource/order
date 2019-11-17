@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    小齐家常菜
+                    农家院家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
