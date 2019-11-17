@@ -119,7 +119,7 @@
 				<version>2.2</version>
 				<configuration>
 					<path>/</path>
-					<port>8071</port>
+					<port>8080</port>
 					<uriEncoding>UTF-8</uriEncoding>
 					<contextReloadable>true</contextReloadable>
 				</configuration>
